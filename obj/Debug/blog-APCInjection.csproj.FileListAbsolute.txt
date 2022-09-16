@@ -1,0 +1,8 @@
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\blog-APCInjection\bin\Debug\blog-APCInjection.exe.config
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\blog-APCInjection\bin\Debug\blog-APCInjection.exe
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\blog-APCInjection\bin\Debug\blog-APCInjection.pdb
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\blog-APCInjection\obj\Debug\blog-APCInjection.csproj.AssemblyReference.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\blog-APCInjection\obj\Debug\blog-APCInjection.csproj.SuggestedBindingRedirects.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\blog-APCInjection\obj\Debug\blog-APCInjection.csproj.CoreCompileInputs.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\blog-APCInjection\obj\Debug\blog-APCInjection.exe
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\blog-APCInjection\obj\Debug\blog-APCInjection.pdb
